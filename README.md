@@ -2,7 +2,7 @@
 
 I passed the Pool stage at School 1337, which is a school belonging to Network 42, and these are the projects I completed in Pool.
 
-![Pool Projects](intra.jpeg)
+![Pool Projects](intra_42.png)
 
 ## Projects and Solutions
 
